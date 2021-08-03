@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/XcodersHub/TorToolkitX/pull/15) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-2. ❌ Closed PR [#14](https://github.com/XcodersHub/TorToolkitX/pull/14) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-3. 🎉 Merged PR [#13](https://github.com/XcodersHub/TorToolkitX/pull/13) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-4. 🗣 Commented on [#265](https://github.com/gautamajay52/TorrentLeech-Gdrive/issues/265) in [gautamajay52/TorrentLeech-Gdrive](https://github.com/gautamajay52/TorrentLeech-Gdrive)
-5. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Forward-Client/issues/6) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-6. 💪 Opened PR [#47](https://github.com/odysseusmax/tg-index/pull/47) in [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index)
+1. 💪 Opened PR [#3](https://github.com/XcodersHub/lazyleech-heroku/pull/3) in [XcodersHub/lazyleech-heroku](https://github.com/XcodersHub/lazyleech-heroku)
+2. 🎉 Merged PR [#15](https://github.com/XcodersHub/TorToolkitX/pull/15) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+3. ❌ Closed PR [#14](https://github.com/XcodersHub/TorToolkitX/pull/14) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+4. 🎉 Merged PR [#13](https://github.com/XcodersHub/TorToolkitX/pull/13) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+5. 🗣 Commented on [#265](https://github.com/gautamajay52/TorrentLeech-Gdrive/issues/265) in [gautamajay52/TorrentLeech-Gdrive](https://github.com/gautamajay52/TorrentLeech-Gdrive)
+6. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Forward-Client/issues/6) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
 <!--END_SECTION:activity-->
 
 
