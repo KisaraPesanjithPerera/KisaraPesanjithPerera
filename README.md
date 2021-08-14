@@ -52,11 +52,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/DragonPower84/myleechclone/pull/1) in [DragonPower84/myleechclone](https://github.com/DragonPower84/myleechclone)
-2. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
-3. ❌ Closed PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-4. 💪 Opened PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-5. ❗️ Opened issue [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
+1. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
+2. 💪 Opened PR [#1](https://github.com/DragonPower84/myleechclone/pull/1) in [DragonPower84/myleechclone](https://github.com/DragonPower84/myleechclone)
+3. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
+4. ❌ Closed PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+5. 💪 Opened PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
 6. 🎉 Merged PR [#13](https://github.com/XcodersHub/TorToolkitX/pull/13) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
 <!--END_SECTION:activity-->
 
