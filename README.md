@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/yash-dk/TorToolkit-Telegram/pull/93) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-2. ❌ Closed PR [#92](https://github.com/yash-dk/TorToolkit-Telegram/pull/92) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-3. 🗣 Commented on [#92](https://github.com/yash-dk/TorToolkit-Telegram/issues/92) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-4. 💪 Opened PR [#92](https://github.com/yash-dk/TorToolkit-Telegram/pull/92) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-5. 🎉 Merged PR [#17](https://github.com/XcodersHub/TorToolkitX/pull/17) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-6. ❌ Closed PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+1. 🗣 Commented on [#91](https://github.com/yash-dk/TorToolkit-Telegram/issues/91) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+2. 💪 Opened PR [#93](https://github.com/yash-dk/TorToolkit-Telegram/pull/93) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+3. ❌ Closed PR [#92](https://github.com/yash-dk/TorToolkit-Telegram/pull/92) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+4. 🗣 Commented on [#92](https://github.com/yash-dk/TorToolkit-Telegram/issues/92) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+5. 💪 Opened PR [#92](https://github.com/yash-dk/TorToolkit-Telegram/pull/92) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+6. 🎉 Merged PR [#17](https://github.com/XcodersHub/TorToolkitX/pull/17) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
 <!--END_SECTION:activity-->
 
 
