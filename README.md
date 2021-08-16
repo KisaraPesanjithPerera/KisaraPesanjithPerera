@@ -78,6 +78,9 @@
 <a href="https://github.com/XcodersHub/TorrentLeechX">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XcodersHub&repo=TorrentLeechX&theme=tokyonight" />
 </a>
+<a href="https://github.com/XcodersHub/TorrentLeechx-Classic">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XcodersHub&repo=TorrentLeechx-Classic&theme=dark" />
+</a>
 <a href="https://github.com/XcodersHub/TorToolkitX">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XcodersHub&repo=TorToolkitX&theme=dark" />
 </a> 
