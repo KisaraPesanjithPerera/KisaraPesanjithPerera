@@ -52,10 +52,10 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
+1. 🎉 Merged PR [#17](https://github.com/XcodersHub/TorToolkitX/pull/17) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
 2. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
 3. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
-4. 💪 Opened PR [#1](https://github.com/DragonPower84/myleechclone/pull/1) in [DragonPower84/myleechclone](https://github.com/DragonPower84/myleechclone)
+4. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
 5. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
 6. ❌ Closed PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
 <!--END_SECTION:activity-->
