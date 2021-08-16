@@ -52,10 +52,10 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/XcodersHub/TorToolkitX/pull/17) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-2. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
-3. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
-4. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
+1. ❌ Closed PR [#92](https://github.com/yash-dk/TorToolkit-Telegram/pull/92) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+2. 🗣 Commented on [#92](https://github.com/yash-dk/TorToolkit-Telegram/issues/92) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+3. 💪 Opened PR [#92](https://github.com/yash-dk/TorToolkit-Telegram/pull/92) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+4. 🎉 Merged PR [#17](https://github.com/XcodersHub/TorToolkitX/pull/17) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
 5. 🗣 Commented on [#13](https://github.com/subinps/MusicPlayer/issues/13) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
 6. ❌ Closed PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
 <!--END_SECTION:activity-->
