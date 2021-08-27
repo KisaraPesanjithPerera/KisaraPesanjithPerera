@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/XcodersHub/TorToolkitX/issues/21) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-2. ❌ Closed PR [#20](https://github.com/XcodersHub/TorToolkitX/pull/20) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-3. 💪 Opened PR [#96](https://github.com/yash-dk/TorToolkit-Telegram/pull/96) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-4. 🗣 Commented on [#21](https://github.com/XcodersHub/TorToolkitX/issues/21) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-5. 💪 Opened PR [#20](https://github.com/XcodersHub/TorToolkitX/pull/20) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-6. 🗣 Commented on [#1](https://github.com/XcodersHub/TorrentLeechX/issues/1) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+1. 🎉 Merged PR [#22](https://github.com/XcodersHub/TorToolkitX/pull/22) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+2. 💪 Opened PR [#22](https://github.com/XcodersHub/TorToolkitX/pull/22) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+3. ❗️ Closed issue [#21](https://github.com/XcodersHub/TorToolkitX/issues/21) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+4. ❌ Closed PR [#20](https://github.com/XcodersHub/TorToolkitX/pull/20) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+5. 💪 Opened PR [#96](https://github.com/yash-dk/TorToolkit-Telegram/pull/96) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+6. 🗣 Commented on [#21](https://github.com/XcodersHub/TorToolkitX/issues/21) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
 <!--END_SECTION:activity-->
 
 
