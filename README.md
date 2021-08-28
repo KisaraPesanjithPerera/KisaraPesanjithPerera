@@ -54,10 +54,10 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#30](https://github.com/MaxxRider/Leech-Pro/issues/30) in [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro)
 2. 🗣 Commented on [#30](https://github.com/MaxxRider/Leech-Pro/issues/30) in [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro)
-3. ❗️ Opened issue [#30](https://github.com/MaxxRider/Leech-Pro/issues/30) in [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro)
-4. 🗣 Commented on [#91](https://github.com/yash-dk/TorToolkit-Telegram/issues/91) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-5. 🎉 Merged PR [#22](https://github.com/XcodersHub/TorToolkitX/pull/22) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-6. 💪 Opened PR [#22](https://github.com/XcodersHub/TorToolkitX/pull/22) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+3. 🗣 Commented on [#30](https://github.com/MaxxRider/Leech-Pro/issues/30) in [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro)
+4. ❗️ Opened issue [#30](https://github.com/MaxxRider/Leech-Pro/issues/30) in [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro)
+5. 🗣 Commented on [#91](https://github.com/yash-dk/TorToolkit-Telegram/issues/91) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+6. 🎉 Merged PR [#22](https://github.com/XcodersHub/TorToolkitX/pull/22) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
 <!--END_SECTION:activity-->
 
 
