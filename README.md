@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/subinps/MusicPlayer/issues/22) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
-2. 🗣 Commented on [#30](https://github.com/MaxxRider/Leech-Pro/issues/30) in [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro)
+1. 🗣 Commented on [#22](https://github.com/subinps/MusicPlayer/issues/22) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
+2. ❗️ Opened issue [#22](https://github.com/subinps/MusicPlayer/issues/22) in [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer)
 3. 🗣 Commented on [#30](https://github.com/MaxxRider/Leech-Pro/issues/30) in [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro)
 4. 🗣 Commented on [#30](https://github.com/MaxxRider/Leech-Pro/issues/30) in [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro)
-5. ❗️ Opened issue [#30](https://github.com/MaxxRider/Leech-Pro/issues/30) in [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro)
-6. 🗣 Commented on [#91](https://github.com/yash-dk/TorToolkit-Telegram/issues/91) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+5. 🗣 Commented on [#30](https://github.com/MaxxRider/Leech-Pro/issues/30) in [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro)
+6. ❗️ Opened issue [#30](https://github.com/MaxxRider/Leech-Pro/issues/30) in [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro)
 <!--END_SECTION:activity-->
 
 
