@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AmirulAndalib/TorToolkit-Telegram/pull/1) in [AmirulAndalib/TorToolkit-Telegram](https://github.com/AmirulAndalib/TorToolkit-Telegram)
-2. 🎉 Merged PR [#28](https://github.com/XcodersHub/TorToolkitX/pull/28) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-3. 🎉 Merged PR [#27](https://github.com/XcodersHub/TorToolkitX/pull/27) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-4. ❌ Closed PR [#25](https://github.com/XcodersHub/TorToolkitX/pull/25) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-5. 🗣 Commented on [#25](https://github.com/XcodersHub/TorToolkitX/issues/25) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-6. 🎉 Merged PR [#26](https://github.com/XcodersHub/TorToolkitX/pull/26) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+1. 💪 Opened PR [#106](https://github.com/yash-dk/TorToolkit-Telegram/pull/106) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+2. 💪 Opened PR [#1](https://github.com/AmirulAndalib/TorToolkit-Telegram/pull/1) in [AmirulAndalib/TorToolkit-Telegram](https://github.com/AmirulAndalib/TorToolkit-Telegram)
+3. 🎉 Merged PR [#28](https://github.com/XcodersHub/TorToolkitX/pull/28) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+4. 🎉 Merged PR [#27](https://github.com/XcodersHub/TorToolkitX/pull/27) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+5. ❌ Closed PR [#25](https://github.com/XcodersHub/TorToolkitX/pull/25) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+6. 🗣 Commented on [#25](https://github.com/XcodersHub/TorToolkitX/issues/25) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
 <!--END_SECTION:activity-->
 
 
