@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AmirulAndalib/hishirobot/pull/1) in [AmirulAndalib/hishirobot](https://github.com/AmirulAndalib/hishirobot)
-2. ❌ Closed PR [#419](https://github.com/SlamDevs/slam-mirrorbot/pull/419) in [SlamDevs/slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
-3. 💪 Opened PR [#419](https://github.com/SlamDevs/slam-mirrorbot/pull/419) in [SlamDevs/slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
-4. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
-5. 🎉 Merged PR [#30](https://github.com/XcodersHub/TorToolkitX/pull/30) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-6. ❌ Closed PR [#29](https://github.com/XcodersHub/TorToolkitX/pull/29) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+1. 🎉 Merged PR [#1](https://github.com/AmirulAndalib/hishirobot/pull/1) in [AmirulAndalib/hishirobot](https://github.com/AmirulAndalib/hishirobot)
+2. 💪 Opened PR [#1](https://github.com/AmirulAndalib/hishirobot/pull/1) in [AmirulAndalib/hishirobot](https://github.com/AmirulAndalib/hishirobot)
+3. ❌ Closed PR [#419](https://github.com/SlamDevs/slam-mirrorbot/pull/419) in [SlamDevs/slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
+4. 💪 Opened PR [#419](https://github.com/SlamDevs/slam-mirrorbot/pull/419) in [SlamDevs/slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
+5. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
+6. 🎉 Merged PR [#30](https://github.com/XcodersHub/TorToolkitX/pull/30) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
 <!--END_SECTION:activity-->
 
 
