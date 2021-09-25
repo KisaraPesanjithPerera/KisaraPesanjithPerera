@@ -53,11 +53,11 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
-2. ❌ Closed PR [#106](https://github.com/yash-dk/TorToolkit-Telegram/pull/106) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-3. 🗣 Commented on [#106](https://github.com/yash-dk/TorToolkit-Telegram/issues/106) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-4. 🎉 Merged PR [#1](https://github.com/AmirulAndalib/hishirobot/pull/1) in [AmirulAndalib/hishirobot](https://github.com/AmirulAndalib/hishirobot)
-5. 💪 Opened PR [#1](https://github.com/AmirulAndalib/hishirobot/pull/1) in [AmirulAndalib/hishirobot](https://github.com/AmirulAndalib/hishirobot)
-6. ❌ Closed PR [#419](https://github.com/SlamDevs/slam-mirrorbot/pull/419) in [SlamDevs/slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
+2. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
+3. ❌ Closed PR [#106](https://github.com/yash-dk/TorToolkit-Telegram/pull/106) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+4. 🗣 Commented on [#106](https://github.com/yash-dk/TorToolkit-Telegram/issues/106) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+5. 🎉 Merged PR [#1](https://github.com/AmirulAndalib/hishirobot/pull/1) in [AmirulAndalib/hishirobot](https://github.com/AmirulAndalib/hishirobot)
+6. 💪 Opened PR [#1](https://github.com/AmirulAndalib/hishirobot/pull/1) in [AmirulAndalib/hishirobot](https://github.com/AmirulAndalib/hishirobot)
 <!--END_SECTION:activity-->
 
 
