@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/XcodersHub/TorToolkitX/pull/31) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-2. ❗️ Opened issue [#5](https://github.com/FlawCra/ReactSelfbot/issues/5) in [FlawCra/ReactSelfbot](https://github.com/FlawCra/ReactSelfbot)
-3. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
+1. ❗️ Opened issue [#16](https://github.com/cheems/goindex-extended/issues/16) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
+2. 🎉 Merged PR [#31](https://github.com/XcodersHub/TorToolkitX/pull/31) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+3. ❗️ Opened issue [#5](https://github.com/FlawCra/ReactSelfbot/issues/5) in [FlawCra/ReactSelfbot](https://github.com/FlawCra/ReactSelfbot)
 4. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
-5. ❌ Closed PR [#106](https://github.com/yash-dk/TorToolkit-Telegram/pull/106) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-6. 🗣 Commented on [#106](https://github.com/yash-dk/TorToolkit-Telegram/issues/106) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+5. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
+6. ❌ Closed PR [#106](https://github.com/yash-dk/TorToolkit-Telegram/pull/106) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
 <!--END_SECTION:activity-->
 
 
