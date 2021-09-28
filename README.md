@@ -52,11 +52,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com/cheems/goindex-extended/issues/16) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
-2. ❗️ Opened issue [#16](https://github.com/cheems/goindex-extended/issues/16) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
-3. 🎉 Merged PR [#31](https://github.com/XcodersHub/TorToolkitX/pull/31) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-4. ❗️ Opened issue [#5](https://github.com/FlawCra/ReactSelfbot/issues/5) in [FlawCra/ReactSelfbot](https://github.com/FlawCra/ReactSelfbot)
-5. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
+1. 🗣 Commented on [#20](https://github.com/subinps/VCPlayerBot/issues/20) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
+2. ❗️ Closed issue [#16](https://github.com/cheems/goindex-extended/issues/16) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
+3. ❗️ Opened issue [#16](https://github.com/cheems/goindex-extended/issues/16) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
+4. 🎉 Merged PR [#31](https://github.com/XcodersHub/TorToolkitX/pull/31) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+5. ❗️ Opened issue [#5](https://github.com/FlawCra/ReactSelfbot/issues/5) in [FlawCra/ReactSelfbot](https://github.com/FlawCra/ReactSelfbot)
 6. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
 <!--END_SECTION:activity-->
 
