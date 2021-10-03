@@ -53,11 +53,11 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/51sec/CF-Herokus/issues/1) in [51sec/CF-Herokus](https://github.com/51sec/CF-Herokus)
-2. 🗣 Commented on [#3](https://github.com/9tro/tokengen/issues/3) in [9tro/tokengen](https://github.com/9tro/tokengen)
-3. 🗣 Commented on [#20](https://github.com/subinps/VCPlayerBot/issues/20) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
-4. ❗️ Closed issue [#16](https://github.com/cheems/goindex-extended/issues/16) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
-5. ❗️ Opened issue [#16](https://github.com/cheems/goindex-extended/issues/16) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
-6. 🎉 Merged PR [#31](https://github.com/XcodersHub/TorToolkitX/pull/31) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+2. 🗣 Commented on [#1](https://github.com/51sec/CF-Herokus/issues/1) in [51sec/CF-Herokus](https://github.com/51sec/CF-Herokus)
+3. 🗣 Commented on [#3](https://github.com/9tro/tokengen/issues/3) in [9tro/tokengen](https://github.com/9tro/tokengen)
+4. 🗣 Commented on [#20](https://github.com/subinps/VCPlayerBot/issues/20) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
+5. ❗️ Closed issue [#16](https://github.com/cheems/goindex-extended/issues/16) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
+6. ❗️ Opened issue [#16](https://github.com/cheems/goindex-extended/issues/16) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
 <!--END_SECTION:activity-->
 
 
