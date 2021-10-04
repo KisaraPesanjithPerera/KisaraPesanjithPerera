@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
+1. ❗️ Opened issue [#20](https://github.com/cheems/goindex-extended/issues/20) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
 2. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
 3. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
-4. ❗️ Opened issue [#18](https://github.com/cheems/goindex-extended/issues/18) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
-5. 🗣 Commented on [#1](https://github.com/cheems/goindex-extended/issues/1) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
-6. 🗣 Commented on [#1](https://github.com/51sec/CF-Herokus/issues/1) in [51sec/CF-Herokus](https://github.com/51sec/CF-Herokus)
+4. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
+5. ❗️ Opened issue [#18](https://github.com/cheems/goindex-extended/issues/18) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
+6. 🗣 Commented on [#1](https://github.com/cheems/goindex-extended/issues/1) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
 <!--END_SECTION:activity-->
 
 
