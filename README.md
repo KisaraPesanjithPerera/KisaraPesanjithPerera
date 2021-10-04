@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/sampotts/plyr/issues/112) in [sampotts/plyr](https://github.com/sampotts/plyr)
-2. ❗️ Opened issue [#20](https://github.com/cheems/goindex-extended/issues/20) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
-3. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
+1. ❗️ Opened issue [#21](https://github.com/cheems/goindex-extended/issues/21) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
+2. 🗣 Commented on [#112](https://github.com/sampotts/plyr/issues/112) in [sampotts/plyr](https://github.com/sampotts/plyr)
+3. ❗️ Opened issue [#20](https://github.com/cheems/goindex-extended/issues/20) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
 4. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
 5. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
-6. ❗️ Opened issue [#18](https://github.com/cheems/goindex-extended/issues/18) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
+6. 🗣 Commented on [#7](https://github.com/subinps/VCPlayerBot/issues/7) in [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot)
 <!--END_SECTION:activity-->
 
 
