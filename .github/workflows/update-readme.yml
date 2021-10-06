@@ -96,10 +96,12 @@ jobs:
           plugin_stock_interval: 5m
           plugin_traffic: yes
           plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 25
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com/@AmirulAndalib
+          plugin_wakatime_user: .user.login                         # User
           repositories: 150
           repositories_batch: 125
           repositories_forks: yes
