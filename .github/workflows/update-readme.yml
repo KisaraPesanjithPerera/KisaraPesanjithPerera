@@ -55,6 +55,8 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_notable: yes
+          plugin_notable_repositories: yes
           plugin_lines: yes
           plugin_people: yes
           plugin_people_limit: 26
@@ -69,7 +71,7 @@ jobs:
           plugin_reactions_limit_issues: 100
           plugin_skyline: yes
           plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
+          plugin_skyline_quality: 1
           plugin_skyline_year: current-year
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 5
@@ -89,10 +91,16 @@ jobs:
           plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
+          plugin_wakatime_limit: 30
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com/@AmirulAndalib
           plugin_wakatime_user: current
           repositories: 999
           repositories_batch: 999
           repositories_forks: yes
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_batch: 125
+          plugin_repositories_featured: xcodershub/tortoolkitx, xcodershub/torrentleechx, XcodersHub/GdriveTools
+          plugin_repositories_forks: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
