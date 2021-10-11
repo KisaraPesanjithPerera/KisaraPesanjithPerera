@@ -1,2 +1,1 @@
-![Alt text](./github-metrics.svg)
-<img src="./github-metrics.svg">
+<img width="100%" src="github-metrics.svg">
