@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           commits_authoring: amirulandalib@gmail.com
-          config_display: columns
+          config_display: large
           config_timezone: Asia/Dhaka
           config_twemoji: yes
           plugin_achievements: yes
