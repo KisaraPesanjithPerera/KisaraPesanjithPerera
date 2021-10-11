@@ -90,11 +90,12 @@ jobs:
           plugin_topics_sort: stars
           plugin_traffic: yes
           plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 30
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com/@AmirulAndalib
-          plugin_wakatime_user: current
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+          plugin_wakatime_days: 7                                   # Display last week stats
+          plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+          plugin_wakatime_url: https://wakatime.com                 # Wakatime url endpoint
+          plugin_wakatime_user: .user.login                         # User
           repositories: 999
           repositories_batch: 999
           repositories_forks: yes
@@ -103,4 +104,3 @@ jobs:
           plugin_repositories_batch: 125
           plugin_repositories_featured: xcodershub/tortoolkitx, xcodershub/torrentleechx, XcodersHub/GdriveTools
           plugin_repositories_forks: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
