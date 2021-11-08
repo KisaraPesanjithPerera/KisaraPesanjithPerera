@@ -21,7 +21,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           commits_authoring: kpwithworks@gmail.com
           config_display: large
-          config_timezone: Asia/Dhaka
+          config_timezone: Asia/Colombo
           config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
