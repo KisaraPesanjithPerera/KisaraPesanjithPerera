@@ -16,10 +16,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: amirulandalib
+          user: KisaraPesanjithPerera
           template: classic
           base: header, activity, community, repositories, metadata
-          commits_authoring: amirulandalib@gmail.com
+          commits_authoring: kpwithworks@gmail.com
           config_display: large
           config_timezone: Asia/Dhaka
           config_twemoji: yes
@@ -102,5 +102,5 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 125
-          plugin_repositories_featured: xcodershub/tortoolkitx, xcodershub/torrentleechx, XcodersHub/GdriveTools
+          plugin_repositories_featured: TeamAlphaX/AlphaX
           plugin_repositories_forks: yes
