@@ -66,8 +66,8 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="300px"/></a>
 <img width="100%" src="github-metrics.svg">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I Love Connecting With Different People</b> So If You Want To Say <b>Hi, I'll Be Happy To Meet You More!</b> :)</em>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+---
 
 <img src="./rodape_readme.gif" alt="animated matrix art for footer readme.md" />
----
