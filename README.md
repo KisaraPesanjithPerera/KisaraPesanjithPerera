@@ -5,7 +5,7 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-<h2> Hey I am Kisara Pesanjith Perera <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hey I am Kisara Pesanjith Perera<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 -  🚶‍ &nbsp; I Live In : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m Currently Working On : MaX Bots  <br>
@@ -42,7 +42,16 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
-</p>  
+</p>
+
+---
+
+<h3 align="left">Connect With Me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
+<p align="left">
+<a href="https://dev.to/kisarapesanjithperera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kisarapesanjithperera" height="30" width="40" /></a>
+<a href="https://instagram.com/_.kisara._.pesanjith._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kisara._.pesanjith._" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kp tech hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kp tech hub" height="30" width="40" /></a>
+</p>
 
 <img width="100%" src="github-metrics.svg">
 <img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
