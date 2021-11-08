@@ -1,6 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I+am+Kisara+Pesanjith+Perera;I%E2%80%99m+Currently+Working+On+%3A+MaX+Bots;+How+To+Reach+Me+%3A+Contact+Me+On+Telegram;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)](https://github.com/KisaraPesanjithPerera)
 
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
 <h2> Hey I am Kisara Pesanjith Perera 👋 <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
 
 -  🚶‍ &nbsp; I Live In : Sri Lanka 🇱🇰  <br>
