@@ -5,7 +5,7 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-<h2> Hey I am Kisara Pesanjith Perera 👋 <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
+<h2> Hey I am Kisara Pesanjith Perera<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 -  🚶‍ &nbsp; I Live In : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m Currently Working On : MaX Bots  <br>
