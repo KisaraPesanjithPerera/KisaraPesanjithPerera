@@ -10,7 +10,7 @@
 -  🚶‍ &nbsp; I Live In : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m Currently Working On : ![bots](https://img.shields.io/badge/MaX-Bots-red)  <br>
 -  👯 I’m Looking To Collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
--  🤔 I’m Looking For Help : For  Me  <br>
+-  🤔 I’m Looking For Help : ![me](https://img.shields.io/badge/For-Me-beige)  <br>
 -  ⚡ Fun Fact: I'm Just An ![age](https://img.shields.io/badge/Age-14-yellow) Teen 😄
 -  📫 How To Reach Me : ![contact](https://img.shields.io/badge/Contact%20Me-On%20Telegram-blue)
 -  💬 Ask Me About Anything, I Am Happy To Help
