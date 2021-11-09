@@ -74,6 +74,7 @@
 <h2 align="left">Connect With Me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="left">
 <a href="https://dev.to/kisarapesanjithperera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kisarapesanjithperera" height="30" width="40" /></a>
+<a href="https://t.me/KisaraPesanjithPerera" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a>
 <a href="https://instagram.com/_.kisara._.pesanjith._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kisara._.pesanjith._" height="30" width="40" /></a>
 <a href="https://m.youtube.com/channel/UC_-caKrhcU3J_ktLQYInwuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kp tech hub" height="30" width="40" /></a>
 </p>
