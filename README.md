@@ -24,11 +24,11 @@
 <p align="center">
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=KisaraPesanjithPerera&count_private=true&include_all_commits=true&show_icons=true&theme=light"
+        src="https://github-readme-stats.vercel.app/api?username=KisaraPesanjithPerera&count_private=true&include_all_commits=true&show_icons=true&theme=light&hide_border=true"
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=KisaraPesanjithPerera&theme=light"
+        src="https://github-readme-streak-stats.herokuapp.com?user=KisaraPesanjithPerera&theme=light&hide_border=true"
     />
 </p>
 
@@ -36,6 +36,9 @@
 - ![GitHub Followers](https://img.shields.io/github/followers/KisaraPesanjithPerera?style=social)
 - ![KP Tech Hub](https://img.shields.io/youtube/channel/subscribers/UC_-caKrhcU3J_ktLQYInwuw?label=KP%20Tech%20Hub&style=social)
  
+<a href="https://github.com/KisaraPesanjithPerera"><img alt="Kisara Pesanjith Perera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KisaraPesanjithPerera&bg_color=FFFFFF&color=000000&line=FF0000&point=000000&hide_border=true" /></a>
+
+
 ---
 
 <h2> My Repo Status <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
