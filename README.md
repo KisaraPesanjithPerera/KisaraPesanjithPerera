@@ -21,7 +21,16 @@
 
 <h2> My Github Status <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
 
-![KisaraPesanjithPerera's GitHub stats](https://github-readme-stats.vercel.app/api?username=KisaraPesanjithPerera&count_private=true)
+<p align="center">
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=KisaraPesanjithPerera&count_private=true&include_all_commits=true&show_icons=true&theme=light&custom_title=GitHub+Stats"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=KisaraPesanjithPerera&theme=light"
+    />
+</p>
 
 - ![Profile Views](https://gpvc.arturio.dev/KisaraPesanjithPerera)
 - ![GitHub Followers](https://img.shields.io/github/followers/KisaraPesanjithPerera?style=social)
