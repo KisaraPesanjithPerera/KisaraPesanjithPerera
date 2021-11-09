@@ -12,7 +12,7 @@
 -  👯 I’m Looking To Collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m Looking For Help : For  Me  <br>
 -  📫 How To Reach Me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
--  💬 Ask Me About Anything, I am happy to help
+-  💬 Ask Me About Anything, I Am Happy To Help
 -  🎯 Contribute And Create Open Source Projects
 
  [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
@@ -76,7 +76,7 @@
 <a href="https://dev.to/kisarapesanjithperera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kisarapesanjithperera" height="30" width="40" /></a>
 <a href="https://t.me/KisaraPesanjithPerera" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a>
 <a href="https://instagram.com/_.kisara._.pesanjith._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kisara._.pesanjith._" height="30" width="40" /></a>
-<a href="https://m.youtube.com/channel/UC_-caKrhcU3J_ktLQYInwuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kp tech hub" height="30" width="40" /></a>
+<a href="https://m.youtube.com/channel/UC_-caKrhcU3J_ktLQYInwuw" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" alt="kp tech hub" height="40" width="40" /></a>
 </p>
 
 ---
