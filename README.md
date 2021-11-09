@@ -8,13 +8,14 @@
 <h2> Hey I am Kisara Pesanjith Perera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 -  🚶‍ &nbsp; I Live In : Sri Lanka 🇱🇰  <br>
--  🔭 I’m Currently Working On : MaX Bots  <br>
+-  🔭 I’m Currently Working On : ![bots](https://img.shields.io/badge/MaX-Bots-red)  <br>
 -  👯 I’m Looking To Collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m Looking For Help : For  Me  <br>
 -  ⚡ Fun Fact: I'm Just An ![age](https://img.shields.io/badge/Age-14-yellow) Teen 😄
 -  📫 How To Reach Me : ![contact](https://img.shields.io/badge/Contact%20Me-On%20Telegram-blue)
 -  💬 Ask Me About Anything, I Am Happy To Help
 -  🎯 Contribute And Create Open Source Projects
+-  📚 I'm Studying Python | English
 
  [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
