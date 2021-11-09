@@ -23,8 +23,10 @@
 
 ![KisaraPesanjithPerera's GitHub stats](https://github-readme-stats.vercel.app/api?username=KisaraPesanjithPerera&count_private=true)
 
-- ![Profile views](https://gpvc.arturio.dev/KisaraPesanjithPerera)
-- ![GitHub followers](https://img.shields.io/github/followers/KisaraPesanjithPerera?style=social)
+- ![Profile Views](https://gpvc.arturio.dev/KisaraPesanjithPerera)
+- ![GitHub Followers](https://img.shields.io/github/followers/KisaraPesanjithPerera?style=social)
+- ![KP Tech Hub](https://img.shields.io/youtube/channel/subscribers/UC_-caKrhcU3J_ktLQYInwuw?label=KP%20Tech%20Hub&style=social)
+ 
 ---
 
 <h2> My Tools And Languages<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
