@@ -32,7 +32,7 @@
 <h2> My Repo Status <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=YadiskDirect&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=MaxBotsMirror&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=GM&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=MaxBotsCovidInfo&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=ImageEditorBot&theme=dark)
  
