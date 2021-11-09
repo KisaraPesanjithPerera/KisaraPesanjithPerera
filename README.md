@@ -24,7 +24,7 @@
 <p align="center">
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=KisaraPesanjithPerera&count_private=true&include_all_commits=true&show_icons=true&theme=light&custom_title=GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=KisaraPesanjithPerera&count_private=true&include_all_commits=true&show_icons=true&theme=light"
     />
     <img
         width="49%"
