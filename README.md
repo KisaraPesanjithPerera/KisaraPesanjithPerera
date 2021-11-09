@@ -29,6 +29,14 @@
  
 ---
 
+<h2> My Repo Status <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=YadiskDirect&theme=light)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=MaxBotsMirror&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=MaxBotsCovidInfo&theme=light)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=ImageEditorBot&theme=dark)
+ 
+
 <h2> My Tools And Languages<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
