@@ -15,7 +15,7 @@
 -  📫 How To Reach Me : ![contact](https://img.shields.io/badge/Contact%20Me-On%20Telegram-blue)
 -  💬 Ask Me About Anything, I Am Happy To Help
 -  🎯 Contribute And Create Open Source Projects
--  📚 I'm Studying Python | English
+-  📚 I'm Studying ![python](https://img.shields.io/badge/Python-English-green)
 
  [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
