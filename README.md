@@ -14,8 +14,10 @@
 -  📫 How To Reach Me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 -  💬 Ask Me About Anything, I am happy to help
 -  🎯 Contribute And Create Open Source Projects
----
 
+ [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
+
+---
 
 <h2> My Github Status <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
 
