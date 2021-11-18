@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I+am+Kisara+Pesanjith+Perera;I%E2%80%99m+Currently+Working+On+%3A+MaX+Bots;+How+To+Reach+Me+%3A+Contact+Me+On+Telegram;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)](https://github.com/KisaraPesanjithPerera)
 
 <p align="center">
