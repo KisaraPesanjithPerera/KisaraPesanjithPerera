@@ -4,7 +4,7 @@
   <a href="https://t.me/KisaraPesanjithPerera"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
 
-<h2> Hey I am Kisara Pesanjith Perera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<h2> Hey I Am Kisara Pesanjith Perera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 -  🚶‍ &nbsp; I Live In : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m Currently Working On : ![bots](https://img.shields.io/badge/MaX-Bots-red)  <br>
