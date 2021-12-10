@@ -6,7 +6,7 @@
 
 <h2> Hey I Am Kisara Pesanjith Perera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
--  🚶‍ &nbsp; I Live In : Sri Lanka 🇱🇰  <br>
+-  🚶‍&nbsp;I Live In : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m Currently Working On : ![bots](https://img.shields.io/badge/MaX-Bots-red)  <br>
 -  👯 I’m Looking To Collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m Looking For Help : ![me](https://img.shields.io/badge/For-Me-beige)  <br>
