@@ -77,7 +77,7 @@
 <p align="left">
 <a href="https://dev.to/kisarapesanjithperera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kisarapesanjithperera" height="30" width="40" /></a>
 <a href="https://twitter.com/kisarapesanjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kisarapesanjith" height="30" width="40" /></a>
-<a href="https://instagram.com/_.kisara._.pesanjith._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kisara._.pesanjith._" height="30" width="40" /></a>
+<a href="https://instagram.com/KisaraPesanjithPerera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="KisaraPesanjithPerera" height="30" width="40" /></a>
 <a href="https://m.youtube.com/channel/UC_-caKrhcU3J_ktLQYInwuw" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" alt="kp tech hub" height="40" width="40" /></a>
 </p>
 
