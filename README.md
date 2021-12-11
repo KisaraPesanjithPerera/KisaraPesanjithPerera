@@ -35,10 +35,10 @@
 
 - ![Profile Views](https://gpvc.arturio.dev/KisaraPesanjithPerera)
 - ![GitHub Followers](https://img.shields.io/github/followers/KisaraPesanjithPerera?style=social)
-- ![KP Tech Hub](https://img.shields.io/youtube/channel/subscribers/UC_-caKrhcU3J_ktLQYInwuw?label=KP%20Tech%20Hub&style=social)<a href="https://img.shields.io/youtube/channel/subscribers/UC_-caKrhcU3J_ktLQYInwuw" target="blank">
+- ![KP Tech Hub](https://img.shields.io/youtube/channel/subscribers/UC_-caKrhcU3J_ktLQYInwuw?label=KP%20Tech%20Hub&style=social)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kisarapesanjithperera" alt="kisarapesanjithperera" /></a> </p>
-<a href="https://github.com/KisaraPesanjithPerera"><img alt="Kisara Pesanjith Perera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KisaraPesanjithPerera&bg_color=FFFFFF&color=000000&line=FF0000&point=000000&hide_border=true" /></a>
 <p align="left"> <a href="https://twitter.com/kisarapesanjith" target="blank"><img src="https://img.shields.io/twitter/follow/kisarapesanjith?logo=twitter&style=for-the-badge" alt="kisarapesanjith" /></a> </p>
+<a href="https://github.com/KisaraPesanjithPerera"><img alt="Kisara Pesanjith Perera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KisaraPesanjithPerera&bg_color=FFFFFF&color=000000&line=FF0000&point=000000&hide_border=true" /></a>
 
 
 ---
