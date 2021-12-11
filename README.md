@@ -35,9 +35,10 @@
 
 - ![Profile Views](https://gpvc.arturio.dev/KisaraPesanjithPerera)
 - ![GitHub Followers](https://img.shields.io/github/followers/KisaraPesanjithPerera?style=social)
-- ![KP Tech Hub](https://img.shields.io/youtube/channel/subscribers/UC_-caKrhcU3J_ktLQYInwuw?label=KP%20Tech%20Hub&style=social)
- 
+- ![KP Tech Hub](https://img.shields.io/youtube/channel/subscribers/UC_-caKrhcU3J_ktLQYInwuw?label=KP%20Tech%20Hub&style=social)<a href="https://img.shields.io/youtube/channel/subscribers/UC_-caKrhcU3J_ktLQYInwuw" target="blank">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kisarapesanjithperera" alt="kisarapesanjithperera" /></a> </p>
 <a href="https://github.com/KisaraPesanjithPerera"><img alt="Kisara Pesanjith Perera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KisaraPesanjithPerera&bg_color=FFFFFF&color=000000&line=FF0000&point=000000&hide_border=true" /></a>
+<p align="left"> <a href="https://twitter.com/kisarapesanjith" target="blank"><img src="https://img.shields.io/twitter/follow/kisarapesanjith?logo=twitter&style=for-the-badge" alt="kisarapesanjith" /></a> </p>
 
 
 ---
@@ -75,7 +76,7 @@
 <h2 align="left">Connect With Me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="left">
 <a href="https://dev.to/kisarapesanjithperera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kisarapesanjithperera" height="30" width="40" /></a>
-<a href="https://t.me/KisaraPesanjithPerera" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a>
+<a href="https://twitter.com/kisarapesanjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kisarapesanjith" height="30" width="40" /></a>
 <a href="https://instagram.com/_.kisara._.pesanjith._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kisara._.pesanjith._" height="30" width="40" /></a>
 <a href="https://m.youtube.com/channel/UC_-caKrhcU3J_ktLQYInwuw" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" alt="kp tech hub" height="40" width="40" /></a>
 </p>
