@@ -84,7 +84,7 @@
 ---
 
 # Support<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<a href="https://www.buymeacoffee.com/KisaraPesanjith"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Me A Pizza&emoji=🍕&slug=KisaraPesanjithPerera&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
+<a href="https://www.buymeacoffee.com/KisaraPesanjith"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Me A Pizza&emoji=🍕&slug=KisaraPesanjith&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
 
 ---
 
