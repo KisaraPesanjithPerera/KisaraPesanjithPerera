@@ -7,11 +7,11 @@
 <h2> Hey I Am Kɪꜱᴀʀᴀ Pᴇꜱᴀɴᴊɪᴛʜ Pᴇʀᴇʀᴀ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 -  🚶‍&nbsp;I Live In : Sri Lanka 🇱🇰  <br>
--  🔭 I’m Currently Working On : ![bots](https://img.shields.io/badge/MaX-Bots-red)  <br>
+-  🔭 I’m Currently Working On : ![bots](https://img.shields.io/badge/imdeveloper-tk-blue)  <br>
 -  👯 I’m Looking To Collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m Looking For Help : ![me](https://img.shields.io/badge/For-Me-beige)  <br>
 -  ⚡ Fun Fact: I'm Just An ![age](https://img.shields.io/badge/Age-14-yellow) Teen 😄
--  📫 How To Reach Me : ![contact](https://img.shields.io/badge/Contact%20Me-On%20Telegram-blue)
+-  📫 How To Reach Me : ![contact](https://img.shields.io/badge/Contact%20Me-On%20Discord-pink)
 -  💬 Ask Me About Anything, I Am Happy To Help
 -  🎯 Contribute And Create Open Source Projects
 -  📚 I'm Studying ![python](https://img.shields.io/badge/Python-English-green)
